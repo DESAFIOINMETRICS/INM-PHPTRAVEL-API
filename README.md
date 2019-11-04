@@ -1,6 +1,6 @@
 # INM-PHPTRAVEL-API  
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Alt Text](https://github.com/desafioinmetrics/inm-phptravel-web/raw/master/Inmetrics_Hard_Tech_Strong_Results.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Alt Text](https://github.com/desafioinmetrics/inm-phptravel-api/raw/master/Inmetrics_Hard_Tech_Strong_Results.png)
 
 ## Objetivo: 
 
@@ -8,7 +8,6 @@
  
 ## Cenário a ser automatizado:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Download do Video do Cenário](https://github.com/desafioinmetrics/inm-phptravel-web/raw/master/DESAFIO_INMETRICS.mp4)
  
 ## Pré-Condições: 
 

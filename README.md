@@ -1,6 +1,6 @@
-# INM-PHPTRAVEL-API  
+# INM-REQRES-API  
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Alt Text](https://github.com/desafioinmetrics/inm-phptravel-api/raw/master/Inmetrics_Hard_Tech_Strong_Results.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Alt Text](https://github.com/desafioinmetrics/inm-reqres-api/raw/master/Inmetrics_Hard_Tech_Strong_Results.png)
 
 ## Objetivo: 
 

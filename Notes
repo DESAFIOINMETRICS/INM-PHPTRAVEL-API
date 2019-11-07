@@ -1,0 +1,34 @@
+Autor: Dayana Silva de Souza
+
+
+---------------|
+Ferramentas    |
+-----------------------------------------------------|
+-Foram utilizadas para construção desse projeto as 	 
+ferramentas Cucumber, Ruby, httparty e BDD.	 
+-----------------------------------------------------|
+
+
+---------------|
+Execução
+-----------------------------------------------------------|
+-Para executar a feature entre na pasta \DEFAFIODAYANAAPI
+e execute o comando cucumber -t @get_validacampos	 
+-----------------------------------------------------------|
+
+
+OBS:
+Se ao executar a feture "GetApi.feature" ocorra o erro abaixo:
+SSL_connect returned=1 errno=0 state=error: certificate verify failed (OpenSSL::SSL::SSLError)
+
+Siga os seguintes passos:
+
+-Baixe o arquivo cacert.pem do site http://curl.haxx.se/ca/cacert.pem. save o arquvo na pasta C:\RailsInstaller\cacert.pem.
+-Abra o terminal e execute o comando (set SSL_CERT_FILE=C:\RailsInstaller\cacert.pem)
+
+* Para tornar essa configuração permanente, adicione-a no seu painel de controle.
+
+
+
+
+
